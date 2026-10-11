@@ -4,35 +4,6 @@ MedFind is a full-stack web application designed to help users identify medicine
 
 The application combines camera-based text recognition, location services, mapping, and database integration to simplify medicine discovery.
 
- **Application Screenshots**
-
-1. Welcome Screen
-![Welcome Screen](screenshots/01_Welcome_Screen.png)
-
- 2. Homepage
-![Homepage](screenshots/02_Homepage.png)
-
-3. Login Page
-![Login Page](screenshots/03_Login_Page.png)
-
- 4. Medicine Search
-![Medicine Search](screenshots/04_Medicine_Search_Page.png)
-
-5. Location Detection
-![Location Detection](screenshots/05_Detects_Original_Location.png)
-
- 6. Nearby Pharmacies
-![Nearby Pharmacies](screenshots/06_Near_by_Pharmacies.png)
-
- 7. OpenStreetMap Integration
-![OpenStreetMap](screenshots/07_OpenStreetMap.png)
-
- 8. Directions to Pharmacies
-![Directions](screenshots/08_Real_Direction.png)
-
- 9. Medicine Availability Check
-![Availability Check](screenshots/09_Availability_Check.png)
-
  Features
 
 -  Camera-Based Medicine Scanning: Capture a medicine package using the device camera.
